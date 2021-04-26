@@ -1,0 +1,24 @@
+genus: WARNING: 32bit executable version of "genus" not found... the 64bit version will  be used instead.
+TMPDIR is being set to /tmp/genus_temp_3451_ws32_m109061613_ybS5Jk
+
+Loading tool scripts...
+Finished loading tool scripts (11 seconds elapsed).
+
+#@ Processing -files option
+@genus 1> source /usr/cadtool/cadence/STRATUS/cur/tools.lnx86/bin/bdw_genus_server
+  Setting attribute of root '/': 'write_verification_files' = false
+  Setting attribute of root '/': 'dp_area_mode' = true
+  Setting attribute of root '/': 'multibit_mapping_effort_level' = low
+  Setting attribute of root '/': 'map_to_multiple_output_gates' = false
+  Setting attribute of root '/': 'auto_super_thread' = false
+  Setting attribute of root '/': 'max_cpus_per_server' = 0
+  Setting attribute of root '/': 'retime_verification_flow' = false
+  Setting attribute of root '/': 'retime_disable_all_transitive_drvrs' = 1
+  Setting attribute of root '/': 'legacy_collection' = true
+  Setting attribute of root '/': 'dpopt_rewrite_csaadd' = 0
+Sourcing '/usr/cadtool/cadence/STRATUS/cur/share/stratus/tcl/bdw_generic_server.tcl' (Mon Apr 26 12:37:38 CST 2021)...
+Sourcing '/usr/cadtool/cadence/STRATUS/cur/share/stratus/tcl/Messaging.tcl' (Mon Apr 26 12:37:38 CST 2021)...
+##########################################################################
+# Starting in server mode with port 33530@ws32
+#   client pid = 3304
+##########################################################################

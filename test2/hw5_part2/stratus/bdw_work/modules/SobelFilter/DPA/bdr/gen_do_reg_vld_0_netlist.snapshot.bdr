@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<netlist>
+	<module_name>gen_do_reg_vld_0</module_name>
+	<signal>
+		<name>MUX_N48</name>
+		<source_loc>7326</source_loc>
+		<async/>
+	</signal>
+	<thread>
+		<name>MUX_N48</name>
+		<async/>
+		<lhs>
+			<name>MUX_N48</name>
+		</lhs>
+		<rhs>
+			<name>gen_do_reg_vld_0_i_r_m_vld_reg_next</name>
+			<name>tmp10</name>
+		</rhs>
+		<cond>
+			<name>amtmp002</name>
+		</cond>
+		<mux_area>2.8617</mux_area>
+		<mux_delay>0.0615</mux_delay>
+		<control_delay>0.0615</control_delay>
+	</thread>
+</netlist>

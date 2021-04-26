@@ -1,0 +1,14 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+-INCDIR
+/usr/cadtool/cadence/STRATUS/cur/tools.lnx86/stratus/lib
+-INCDIR
+bdw_work/wrappers
+-LIBEXT
+.v
+-DEFINE
+ioConfig
+-DEFINE
+BDW_RTL_SobelFilter_BASIC
